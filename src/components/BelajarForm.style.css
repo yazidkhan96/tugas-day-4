@@ -1,0 +1,13 @@
+.biodata-wrap {
+    display: flex;
+    margin: 10px 0;
+}
+.biodata-title {
+    width: 150px;
+}
+
+.biodata{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
